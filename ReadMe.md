@@ -1,3 +1,6 @@
+# Weather Data Analysis with Python and API
+In this project, I was tasked with creating a Python script with the help of mulitiple Python libraries in order to perform API calls to Open Weather Map's API to retrieved weather information on 500 cities across the globe.  With the information retrieved, I was able to create a series of scatter plots to demonstrate the relationships between 1) temperature vs. latitude, 2) humidity vs. latitude, 3) cloudiness vs. latitude, and 4) wind speed vs. latitude.
+
 
 # WeatherPy
 
